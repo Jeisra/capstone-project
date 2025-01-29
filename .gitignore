@@ -1,0 +1,13 @@
+# Ignore archivos de Python
+*.pyc
+__pycache__/
+env/
+venv/
+db.sqlite3
+
+# Ignore archivos de VS Code
+.vscode/
+
+# Ignore archivos de Django
+media/
+static/
