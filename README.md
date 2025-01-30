@@ -9,30 +9,29 @@ https://github.com/Jeisra/capstone-project.git
 
 http://127.0.0.1:8000/admin/ 
 
-user: admin
-pass: lemonadmin
-email admin@littlelemon.com
+user: admin  
+pass: lemonadmin  
+email admin@littlelemon.com  
 
-user: John
-pass: continental
-email john@littlelemon.com
+user: John  
+pass: continental  
+email john@littlelemon.com  
 
-***API routes***
-http://127.0.0.1:8000/api/ ***api root***
-http://127.0.0.1:8000/api/booking/ ***genera reserva***
-http://127.0.0.1:8000/auth/users/ ***registra usuario***
-http://127.0.0.1:8000/api/token/ ***obtiene token***
-http://127.0.0.1:8000/auth/token/login/ ***crea token***
-http://127.0.0.1:8000/api/token/refresh/ ***actualiza token***
-http://127.0.0.1:8000/api/restaurant/menu-items/ ***agregar o filtrar elementos del menu***
+***API routes***  
+http://127.0.0.1:8000/api/ ***api root***  
+http://127.0.0.1:8000/api/booking/ ***genera reserva***  
+http://127.0.0.1:8000/auth/users/ ***registra usuario***  
+http://127.0.0.1:8000/api/token/ ***obtiene token***  
+http://127.0.0.1:8000/auth/token/login/ ***crea token***  
+http://127.0.0.1:8000/api/token/refresh/ ***actualiza token***  
+http://127.0.0.1:8000/api/restaurant/menu-items/ ***agregar o filtrar elementos del menu***  
 
-***WEB LittleLemon***
-http://127.0.0.1:8000/
-http://127.0.0.1:8000/api/restaurant/book/
-http://127.0.0.1:8000/api/restaurant/menu/
-http://127.0.0.1:8000/api/restaurant/about/
+***WEB LittleLemon***  
+http://127.0.0.1:8000/  
+http://127.0.0.1:8000/api/restaurant/book/  
+http://127.0.0.1:8000/api/restaurant/menu/  
+http://127.0.0.1:8000/api/restaurant/about/  
 
-http://127.0.0.1:8000/cart/menu-items 
 
 # Does the application connect the backend to a MySQL database?
 
